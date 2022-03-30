@@ -1,0 +1,45 @@
+.img1 {
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #CF9A46;
+    border-radius: 8px;
+}
+
+.img2 {
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px dotted #CF9A46;
+}
+
+.img3 {
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+}
+
+.img4 {
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    transform: rotate(-7deg);
+}
+
+.img5 {
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.img6 {
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
+}
