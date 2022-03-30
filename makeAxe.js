@@ -1,7 +1,6 @@
 function makeAxe(n) {
     const star = '*';
     let width = n * 5;
-    let currentColums = 0;
     let innerSpace = -1;
     let leftDashes = 3 * n;
     let rightDashes = width - leftDashes - 1;
