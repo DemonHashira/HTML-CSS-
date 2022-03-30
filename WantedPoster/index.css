@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Ewert);
+@import url(https://fonts.googleapis.com/css?family=Ultra);
+	
+.page {
+    justify-content: center;
+    width: 1000px;
+    display: flex;
+    margin: auto;
+}
+
+body {
+   background-image: url('https://i.imgur.com/K6g10BB.jpg');
+   background-repeat: repeat;
+   padding: 20px;
+}
+
+.poster {
+    width: 480px;
+    height: 620px;
+    box-sizing: border-box;
+    background-image: url('https://i.imgur.com/Y9Tiq8a.jpg');
+    background-repeat: no-repeat;
+    text-align:center;
+    box-shadow: 2px 4px 8px 3px #000000;
+    margin: 0px;
+}
+
+#mugshot {
+    width: 300px;
+    height: 325px;
+    border: 2px solid #291200;
+    filter: sepia(60%);
+    margin: 0px;
+}
+
+h1 {
+    font-family: ewert;
+    color: #291200;
+    font-size: 60px;
+    font-weight: normal;
+    margin: 0px;
+    padding-top: 15px;
+}
+
+.subheading {
+    font-family: Ultra;
+    color: #291200;
+    font-size: 20px;
+    margin: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.name {
+    font-family: Ultra;
+    color: #291200;
+    font-size: 35px;
+    margin: 0px;
+    padding-top: 5px;
+}
+
+.description {
+    font-family: Ultra;
+    color: #291200;
+    font-size: 17px;
+    font-style: italic;
+    margin: 0px;
+    padding-top: 5px;
+}
+
+h2 {
+    font-family: Ultra;
+    color: #291200;
+    font-size: 23px;
+    margin: 0px;
+    padding-top: 5px;
+    font-weight: normal;
+
+}
+
+#price {
+    font-family: Ultra;
+    color: #291200;
+    font-size: 30px;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    margin: 0px;
+}
